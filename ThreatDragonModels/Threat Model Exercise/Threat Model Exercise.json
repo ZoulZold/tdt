@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Threat Model Exercise",
+    "owner": ""
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Login_DFD",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
